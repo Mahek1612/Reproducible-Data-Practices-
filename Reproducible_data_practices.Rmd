@@ -1,0 +1,46 @@
+---
+title: "Reproducible data practices"
+author: "Mahek Shah"
+date: "2024-05-17"
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
+      smooth_scroll: true
+    theme: sandstone
+    highlight: zenburn
+    css: styles.css
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document covers broad information about good research practices while working with data. This has been created as a reference for the *Ohm lab @RPCCC*. The primary reference for this document is the **"Reproducible Research Practices"** workshop organized by **Alex's Lemonade Stand Foundation's Childhood Cancer Data Lab** on May 14-15, 2024. 
+
+Other references:  
+1. "Reproducibility and Replicability in Science." - https://www.ncbi.nlm.nih.gov/books/NBK547546/#
+2. 
+
+
+
+## What is reproducibility? Why does it matter?
+
+Reproducibility means different things depending on the context. For us, in the context of bioinformatics and computational oncology, reproducibility means to provide enough information (data, code, etc) to allow someone to replicate the exact analysis and arrive at the same results. 
+
+> Reproducibility = Obtaining the same results when using the **same** code, data and *conditions of analysis.*
+
+
+
+
+
+
+> Replicability = Obtaining similar results across studies using **different data**. 
+
+
+
+![Source: https://book.the-turing-way.org](https://book.the-turing-way.org/_images/reproducible-matrix.jpg)
+
+
