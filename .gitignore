@@ -1,5 +1,8 @@
+## Default files not included on github
+
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
 .Rmd
