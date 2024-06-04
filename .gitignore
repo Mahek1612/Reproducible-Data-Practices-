@@ -5,4 +5,5 @@
 .RData
 .Ruserdata
 
+# only html files need to go on here
 .Rmd
