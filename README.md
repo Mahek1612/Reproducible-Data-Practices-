@@ -5,7 +5,7 @@ All other references are included at the end of this document.
 
 ### The document is divided in 2 parts:
 
-- Part 1: [Reproducible Data Practices](Reproducible_data_practices.html) 
+- Part 1: [Reproducible Data Practices](Reproducible-data-practices.html) 
 - Part 2: [GitHub](Intro-to-Git.html)
 
 ### References:
