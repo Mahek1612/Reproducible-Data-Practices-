@@ -1,9 +1,13 @@
-## Default files not included on github
+####################### Default files not included on github ####################
 
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
-# only html files need to go on here
+## Only html files need to go on here, skipping the Rmd ##
 .Rmd
+
+## Other files ##
+.css
+
